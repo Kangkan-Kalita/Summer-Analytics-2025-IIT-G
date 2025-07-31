@@ -28,7 +28,7 @@ Welcome! This repository chronicles my journey through Summer Analytics 2025 at 
 │   ├── fig & Output/   ← sample plots & dashboards, pricing_results.csv files and a Project Report conatining every little detail in PDF format
 │   └── README.md       ← A well explained README file
 ├── requirements.txt    ← pinned Python packages
-└── License             ← Project license (MIT) 
+└── LICENSE             ← Project license (MIT) 
 
 ```
 

@@ -39,7 +39,7 @@ An end-to-end Python-based system that simulates real-time dynamic parking prici
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/parking-pricing-system.git
+   git clone https://github.com/Kangkan-Kalita/parking-pricing-system.git
    cd parking-pricing-system
 
 
@@ -48,7 +48,7 @@ An end-to-end Python-based system that simulates real-time dynamic parking prici
    ```bash
    pip install -r requirements.txt
    ```
-3. Open `notebooks/Dynamic_Parking_Pricing.ipynb` in Jupyter or Colab.
+3. Open `notebooks/Dynamic_Parking_Pricing.ipynb` in Jupyter or Google Colab.
 
 ---
 

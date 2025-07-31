@@ -1,4 +1,4 @@
-# Summer Analytics 2025 • Consulting & Analytics CLub IIT Guwahati
+# Summer Analytics 2025 • Consulting & Analytics Club IIT Guwahati
 
 Welcome! This repository chronicles my journey through Summer Analytics 2025 at IIT Guwahati :  
 – **Week 1 : Foundations & Tutorials**  
@@ -35,7 +35,7 @@ Welcome! This repository chronicles my journey through Summer Analytics 2025 at 
 
 # 🗓️ Week 1: Foundations
 
-- **Topics Covered**: Exploratory Data Analysis, Basic Regression & Classification, Pipeline design  
+- **Topics Covered :** Exploratory Data Analysis, Basic Regression & Classification, Pipeline design  
 - **Artifacts :**  
   - Jupyter notebooks demonstrating Pandas/EDA
   - Car Model Prediction using basic Data Analysis methods.
@@ -50,7 +50,7 @@ Welcome! This repository chronicles my journey through Summer Analytics 2025 at 
   2. Advanced : XGBoost with hyperparameter tuning  
   3. Ensemble : Soft‐voting & stacking  
 - **Results :**  
-  - Best LB score: ~0.9257 with soft‐voting of top 3  
+  - Best LB score : ~0.9257 with soft‐voting of top 3  
   - Submissions & code in `First Hackathon`  
 - **Key takeaways :**  
   - Importance of feature engineering on spectral bands  

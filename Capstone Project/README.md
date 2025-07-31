@@ -29,7 +29,7 @@ An end-to-end Python-based system that simulates real-time dynamic parking prici
 │   └── parking_pricing_dashboard.html
 ├── requirements.txt
 ├── Outputs/
-│   └── pricing_results.csv/json 
+│   ├── pricing_results.csv/json 
 │   └── Project Report (Dynamic Urban Parking Pricing System.pdf)
 ├── LICENSE
 └── README.md

@@ -22,12 +22,15 @@ An end-to-end Python-based system that simulates real-time dynamic parking prici
 
 ```text
 ├── data/
-│   └── dataset.csv
+│   └── dataset.csv, parking_stream_full/final.csv, problem statement.pdf
 ├── notebooks/
-│   └── Capstone_Project_SA_2025.ipynb
+│   └── Capstone_Project_SA_2025.ipynb & .py version, Sample_Notebook.ipynb
 ├── figures/
 │   └── parking_pricing_dashboard.html
 ├── requirements.txt
+├── Outputs/
+│   └── pricing_results.csv/json 
+│   └── Project Report (Dynamic Urban Parking Pricing System.pdf)
 ├── LICENSE
 └── README.md
 

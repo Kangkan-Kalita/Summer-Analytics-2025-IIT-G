@@ -91,6 +91,13 @@ All models respect clipping bounds and start from a \$10 base price per lot.
 * **`parking_stream_final.csv`**: enriched with `BaselinePrice`, `DemandScore`, `DemandPrice`, `SmoothedDemandPrice`
 * Example static visualizations and demand-score histograms (stored in `figures/`) illustrate model behavior and stability.
 
+## 🅿️ Interactive Dashboard
+
+You can view the live interactive dashboard here :
+
+[👉 Open Parking Pricing Dashboard](https://drive.google.com/file/d/1Hg644L1ZUujV6_XUBHLQne_d0wRKCnaJ/view?usp=sharing)
+
+
 ---
 
 ## 🧾 Contributing & Extensions

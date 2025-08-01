@@ -93,7 +93,7 @@ All models respect clipping bounds and start from a \$10 base price per lot.
 
 ## 🚀 Interactive Dashboard
 
-👉 [View live demo via htmlpreview](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Kangkan-Kalita/Summer-Analytics-2025-IIT-G/main/Capstone_Project/parking_pricing_dashboard.html)
+👉 [View live demo via htmlpreview](https://raw.githack.com/Kangkan-Kalita/Summer-Analytics-2025-IIT-G/main/Capstone_Project/parking_pricing_dashboard.html)
 
 
 ---

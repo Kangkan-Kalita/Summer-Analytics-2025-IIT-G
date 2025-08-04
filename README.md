@@ -77,7 +77,7 @@ Welcome! This repository chronicles my journey through Summer Analytics 2025 at 
 
 ---
 
-## 🚗 Capstone : Dynamic Parking Pricing
+## 🚗 Capstone : Dynamic Parking Pricing System
 
 **Objective :** Build a real-time pricing engine for 14 urban parking lots using Pathway + Bokeh.  
 
@@ -117,5 +117,3 @@ Welcome! This repository chronicles my journey through Summer Analytics 2025 at 
 - **Deploy** Panel dashboard as a simple web app!  
 
 ---
-
-*Feel free to explore each notebook, rerun the pipelines, and adapt for your own projects.*  

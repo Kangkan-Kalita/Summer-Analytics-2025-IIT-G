@@ -117,3 +117,8 @@ Welcome! This repository chronicles my journey through Summer Analytics 2025 at 
 - **Deploy** Panel dashboard as a simple web app!  
 
 ---
+
+
+## 📧 Contact
+
+Kangkan Kalita • (kalitakangkan.239@gmail.com)
